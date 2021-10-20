@@ -3,7 +3,7 @@
         margin:0;
         }  
     a {
-         color:black;
+         color:rgb(28, 137, 180);
          text-decoration:none;
         }
             
@@ -30,6 +30,7 @@
     #grid {
         display: grid;
         grid-template-columns:150px 1fr;
+        color:slategrey;
         }
     #article {
         padding-left:25px;
